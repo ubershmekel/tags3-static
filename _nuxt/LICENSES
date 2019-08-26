@@ -35,6 +35,11 @@
  * @license  MIT
  */
 
+/*!
+ * Vue YouTube Embed version 2.2.2
+ * under MIT License copyright 2019 kaorun343
+ */
+
 /**
   * vue-class-component v7.1.0
   * (c) 2015-present Evan You
