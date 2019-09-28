@@ -29,7 +29,7 @@
      id="layer1">
     <path
        id="path4553"
-       d="m 8.466666,170.00003 50.799997,50.8 v 67.73333 h 16.933333 v -67.73333 l 50.799994,-50.8 z"
-       style="fill:#3bf2ea;fill-opacity:1;stroke:none;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 8.466666,170.00003 50.799997,33.86667 0,76.2 16.933333,8.46666 V 203.8667 l 50.799994,-33.86667 z"
+       style="fill:#3bf2ea;fill-opacity:0.98885791;stroke:none;stroke-width:2.11666656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
